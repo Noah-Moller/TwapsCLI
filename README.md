@@ -2,11 +2,11 @@
 
 Twaps is an experimental framework that brings web-like dynamics to native macOS applications. The name "Twaps" stands for "The Web for Apps" - a vision of enabling dynamic, modular UI components in native Swift applications.
 
-## 🧪 Experimental Project
+## Experimental Project
 
 **Note:** This is an experimental project created to explore the concept of dynamic native UI modules. It is not intended for production use at this stage. The code is shared to inspire discussion and collaboration around the idea of bringing web-like dynamics to native app development.
 
-## 🌟 Vision
+## Vision
 
 The web revolutionized content distribution by allowing dynamic loading of content without requiring application updates. Twaps aims to bring similar capabilities to native macOS applications:
 
@@ -15,7 +15,7 @@ The web revolutionized content distribution by allowing dynamic loading of conte
 - **Native Performance**: Enjoy the performance and integration benefits of native code
 - **Simple Distribution**: Push updates to a server and have clients automatically receive them
 
-## 🏗️ Architecture
+## Architecture
 
 The Twaps ecosystem consists of three main components:
 
@@ -30,7 +30,7 @@ The Twaps ecosystem consists of three main components:
 3. Twaps are pushed to the TwapsServer for distribution
 4. The TwapsClient loads Twaps from the server and displays them
 
-## 🚀 Getting Started
+## Getting Started
 
 See the individual repositories for detailed instructions:
 
@@ -38,6 +38,6 @@ See the individual repositories for detailed instructions:
 - [TwapsServer](https://github.com/Noah-Moller/TwapsServer)
 - [TwapsClient](https://github.com/Noah-Moller/TwapsClient)
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
